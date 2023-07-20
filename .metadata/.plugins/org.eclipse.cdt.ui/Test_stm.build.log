@@ -1,0 +1,17 @@
+17:53:54 **** Incremental Build of configuration Debug for project Test_stm ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Test_stm.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\rames\STM32CubeIDE\workspace_1.12.1\Test_stm\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Test_stm.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Test_stm.elf
+ 
+arm-none-eabi-size   Test_stm.elf 
+arm-none-eabi-objdump -h -S  Test_stm.elf  > "Test_stm.list"
+   text	   data	    bss	    dec	    hex	filename
+  12128	     20	   1716	  13864	   3628	Test_stm.elf
+Finished building: default.size.stdout
+ 
+Finished building: Test_stm.list
+ 
+
+17:53:55 Build Finished. 0 errors, 0 warnings. (took 1s.10ms)
+

@@ -1,0 +1,72 @@
+2023-07-19 00:15:12,859 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 576315712 Bytes (749731840)
+2023-07-19 00:15:13,048 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 594141504 Bytes (749731840)
+2023-07-19 00:15:13,451 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 619833664 Bytes (749731840)
+2023-07-19 00:15:14,359 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-07-19 00:15:14,359 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-07-19 00:15:14,359 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-07-19 00:15:14,359 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-07-19 00:15:14,359 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-07-19 00:15:14,359 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-07-19 00:15:15,111 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\license.tmp_save
+2023-07-19 00:15:16,152 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\license.tmp
+2023-07-19 00:15:16,357 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\gpio.tmp_save
+2023-07-19 00:15:16,646 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\gpio.tmp
+2023-07-19 00:15:16,846 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-19 00:15:16,941 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_inc.tmp_save
+2023-07-19 00:15:17,081 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_inc.tmp
+2023-07-19 00:15:17,112 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_vars.tmp_save
+2023-07-19 00:15:17,270 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_vars.tmp
+2023-07-19 00:15:17,317 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-19 00:15:17,458 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_pfp.tmp
+2023-07-19 00:15:17,489 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-19 00:15:17,642 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-19 00:15:17,664 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-19 00:15:17,836 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-19 00:15:17,867 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-19 00:15:17,993 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_default_thread.tmp
+2023-07-19 00:15:18,025 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_threads.tmp_save
+2023-07-19 00:15:18,135 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_threads.tmp
+2023-07-19 00:15:18,151 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-07-19 00:15:18,201 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_inc.tmp_save
+2023-07-19 00:15:18,291 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_inc.tmp
+2023-07-19 00:15:18,307 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_vars.tmp_save
+2023-07-19 00:15:18,370 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_vars.tmp
+2023-07-19 00:15:18,402 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_pfp.tmp_save
+2023-07-19 00:15:18,480 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_pfp.tmp
+2023-07-19 00:15:18,496 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-07-19 00:15:18,565 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_obj_creat.tmp
+2023-07-19 00:15:18,576 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-07-19 00:15:18,644 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_kernelStart.tmp
+2023-07-19 00:15:18,655 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_default_thread.tmp_save
+2023-07-19 00:15:18,744 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_default_thread.tmp
+2023-07-19 00:15:18,765 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_threads.tmp_save
+2023-07-19 00:15:18,827 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\rtos_threads.tmp
+2023-07-19 00:15:18,858 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Inc\FreeRTOSConfig.h_save
+2023-07-19 00:15:18,975 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Inc\FreeRTOSConfig.h
+2023-07-19 00:15:19,000 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\freertos.c_save
+2023-07-19 00:15:19,126 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\freertos.c
+2023-07-19 00:15:19,190 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\stm32f4xx_it.c_save
+2023-07-19 00:15:19,325 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\stm32f4xx_it.c
+2023-07-19 00:15:19,351 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Inc\stm32f4xx_it.h_save
+2023-07-19 00:15:19,442 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Inc\stm32f4xx_it.h
+2023-07-19 00:15:19,552 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\stm32f4xx_hal_msp.c_save
+2023-07-19 00:15:19,709 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\stm32f4xx_hal_msp.c
+2023-07-19 00:15:19,745 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\system.tmp_save
+2023-07-19 00:15:19,852 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\MXTmpFiles\system.tmp
+2023-07-19 00:15:19,883 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-07-19 00:15:19,961 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-07-19 00:15:20,040 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-07-19 00:15:20,166 [INFO] CodeEngine:335 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Inc\stm32f4xx_hal_conf.h
+2023-07-19 00:15:20,220 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2023-07-19 00:15:20,308 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Inc\main.h_save
+2023-07-19 00:15:20,469 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Inc\main.h
+2023-07-19 00:15:20,497 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\main.c_save
+2023-07-19 00:15:20,797 [INFO] CodeEngine:279 - Generated code: C:\Users\rames\STM32CubeIDE\workspace_1.12.1\time_7segment\Core\Src\main.c
+2023-07-19 00:15:22,561 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 714mS.
+2023-07-19 00:15:22,577 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-07-19 00:15:23,095 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2023-07-19 00:15:23,127 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-07-19 00:15:23,148 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-07-19 00:15:23,174 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-07-19 00:15:23,221 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-07-19 00:15:23,248 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
